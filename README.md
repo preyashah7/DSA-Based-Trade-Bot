@@ -57,3 +57,10 @@ Total Profit: 90
 * 🔁 Add real-time market data APIs (like Alpha Vantage, Yahoo Finance)
 * 🤖 ML-enhanced strategy selection
 * 📱 Convert to Android or Web-based simulator
+
+
+
+
+## 🙌 Credits
+
+Built with ❤️ by Preya Shah — AI, full-stack, and ML enthusiast.
